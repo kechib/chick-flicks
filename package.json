@@ -1,6 +1,6 @@
 {
   "homepage": "https://kechib.github.io/flicks/",
-  "name": "movies",
+  "name": "flicks",
   "version": "0.1.0",
   "private": true,
   "scripts": {
